@@ -1,0 +1,24 @@
+TXT tutorial : MegaHack v7.1.1(v7.1.1-GM1)
+
+[РУС]
+
+Сначала нужно установить mega hack v7.1(by ivav12) но перед установкой в ​​7.1.1 нужно включить автосохранение и отключить автообновление.
+Как установить: [рус туториал] https://youtu.be/jNVYC4pW9DA
+Затем открываем установщик v7.1.1, но перед этим нужно отключить антивирус (что он считает файлы и вирусы, на "тотальные вирусы" можете проверить сами), нужно указать путь к игре (.exe) (регистрация не нужна)
+Ставим галочку установить бета версию и нажимаем установить, заходим в GD и после авторизации нажимаем клавишу TAB
+Если не получится, переустановите GD и повторите все заново.
+
+[Собрал этот пак 411Gamer]
+
+[ENG]
+
+First you need to install mega hack v7.1(by ivav12) but before installing in 7.1.1 you need to enable autosave and disable auto-update.
+How to install: [ru tutorial] https://youtu.be/jNVYC4pW9DA
+Then we open the v7.1.1 installer, but before that you need to disable the antivirus (what it counts files and viruses, you can check for "total viruses" yourself), you need to specify the path to the game (.exe) (registration is not needed)
+Check the box to install the beta version and click install, go to GD and after authorization press the TAB key
+If it doesn't work, reinstall GD and try again.
+
+[Collected this pack 411Gamer]
+
+TXT Tutorial by 411Gamer
+YouTube : https://youtube.com/@411GamerGD
